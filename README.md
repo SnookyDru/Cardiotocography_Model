@@ -14,7 +14,7 @@ Welcome to the "Predicting Fetal Health" repository! This GitHub project focuses
 
 - **Data Preprocessing**: The dataset undergoes meticulous data preprocessing and feature engineering to ensure optimal model training. This preprocessing encompasses addressing missing values, detecting outliers, and performing feature scaling.
 
-- **Evaluation Metrics**: Model performance is rigorously evaluated using a range of metrics, including accuracy, precision, recall, F1-score, ROC-AUC, and confusion matrices.
+- **Evaluation Metrics**: Model performance is rigorously evaluated using a range of metrics, including accuracy, precision, recall.
 
 ## Repository Structure
 
